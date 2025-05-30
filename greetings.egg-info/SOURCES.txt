@@ -1,0 +1,12 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+greetings/__init__.py
+greetings/messages.py
+greetings.egg-info/PKG-INFO
+greetings.egg-info/SOURCES.txt
+greetings.egg-info/dependency_links.txt
+greetings.egg-info/top_level.txt
+greetings/formal/__init__.py
+greetings/formal/formal_messages.py
