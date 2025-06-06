@@ -1,5 +1,11 @@
-def say_hello(name):
-    return f"Hello, {name}!"
+import os
+from dotenv import load_dotenv
+load_dotenv()
 
-def say_goodbye(name):
-    return f"Goodbye, {name}!"
+geminikey=os.getenv("geminikey")
+
+def get_gemini_key_value():
+    if geminikey:
+        return geminikey
+    return None
+    
