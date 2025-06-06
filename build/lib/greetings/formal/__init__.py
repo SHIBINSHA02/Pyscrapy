@@ -1,1 +1,0 @@
-from .formal_messages import formal_hello, formal_goodbye
