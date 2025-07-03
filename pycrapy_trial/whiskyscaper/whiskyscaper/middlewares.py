@@ -1,3 +1,4 @@
+# pycrapy_trial/whiskyscaper/whiskyscaper/middlewares.py
 # Define here the models for your spider middleware
 #
 # See documentation in:
